@@ -1,0 +1,11 @@
+/* range of rgb color system is 0-255 */
+h1{
+    color: rgb(255,0,0);
+    /* rgb(255,0,0) 255=red,0=green,0=blue */
+}
+p{
+    color: rgb(100,56,20);
+}
+body{
+    background-color: rgb(45,150,78);
+}
