@@ -1,0 +1,8 @@
+*{
+    color: pink;
+    background-color: black;
+}
+/* piority of last is higher  */
+h1{
+    color: red;
+}
