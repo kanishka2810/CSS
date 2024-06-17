@@ -1,0 +1,17 @@
+p{
+     /* for center
+    text-align: center; */
+
+
+    /* for right
+    text-align: right; */
+
+    /* for left */
+    text-align: end;
+
+    color: red;
+    background-color: blue;
+}
+h1{
+    text-align: start;
+}
