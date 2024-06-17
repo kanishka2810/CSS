@@ -1,0 +1,17 @@
+#h1{
+    font-size: 20px;
+}
+#h2{
+    font-size: 2px;
+}
+#h3{
+    font-size: 30px;
+}
+#h4{
+    font-size: 50px;
+}
+p{
+    font-size:20px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
